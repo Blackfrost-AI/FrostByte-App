@@ -21,7 +21,7 @@ The [user guide](https://blackfrostai.com/frostbyte/guide) describes prerequisit
 - Accessibility, keyboard use, and layout on supported desktop platforms.
 - Useful public bug reports and actionable release follow-up.
 
-Use the [issue tracker](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues) for specific work and its current status. A `status:planned` label identifies selected work; it does not promise a date.
+Use the [issue tracker](https://github.com/Blackfrost-AI/FrostByte-App/issues) for specific work and its current status. A `status:planned` label identifies selected work; it does not promise a date.
 
 ## Next direction: a community directory for open models
 
@@ -36,4 +36,4 @@ That direction includes:
 
 **A public model/torrent index is not implemented in the current beta.** This feedback repository is not a listing service or a place to upload model files. Local inventory, device connections, and private/gated repositories should not silently become public listings.
 
-Share workflows and design ideas through a [feature request](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=02-feature-request.yml). Decisions about multi-device hybrid pooling, additional platform targets, and other capabilities will be made separately; they are not implied by the directory idea.
+Share workflows and design ideas through a [feature request](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=02-feature-request.yml). Decisions about multi-device hybrid pooling, additional platform targets, and other capabilities will be made separately; they are not implied by the directory idea.

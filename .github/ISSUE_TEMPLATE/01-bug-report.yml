@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        This report and its attachments will be **public**. Keep credentials, invite codes, device addresses, personal paths, and private download history out of it. Screenshots and logs are optional. For sensitive security concerns, use [private security reporting](https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new).
-        Search [existing issues](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues?q=is%3Aissue) before opening another report for the same problem.
+        This report and its attachments will be **public**. Keep credentials, invite codes, device addresses, personal paths, and private download history out of it. Screenshots and logs are optional. For sensitive security concerns, use [private security reporting](https://github.com/Blackfrost-AI/FrostByte-App/security/advisories/new).
+        Search [existing issues](https://github.com/Blackfrost-AI/FrostByte-App/issues?q=is%3Aissue) before opening another report for the same problem.
   - type: input
     id: version
     attributes:

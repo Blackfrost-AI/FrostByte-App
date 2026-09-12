@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Check the [user guide](https://blackfrostai.com/frostbyte/guide) and [quick troubleshooting](https://github.com/Blackfrost-AI/FrostByte-Feedback/blob/main/SUPPORT.md) first. Your question and attachments are public. For invite access or private matters, use in-app feedback or [support](mailto:support@blackfrostai.com); do not post credentials or invite codes.
+        Check the [user guide](https://blackfrostai.com/frostbyte/guide) and [quick troubleshooting](https://github.com/Blackfrost-AI/FrostByte-App/blob/main/SUPPORT.md) first. Your question and attachments are public. For invite access or private matters, use in-app feedback or [support](mailto:support@blackfrostai.com); do not post credentials or invite codes.
   - type: textarea
     id: question
     attributes:

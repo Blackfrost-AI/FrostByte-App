@@ -1,6 +1,6 @@
 # Community guidelines
 
-FrostByte Feedback is a place to improve the product, share clear reports, and help other users. Everyone should be able to participate respectfully, regardless of background, identity, experience, or ability.
+FrostByte is a place to improve the product, share clear reports, and help other users. Everyone should be able to participate respectfully, regardless of background, identity, experience, or ability.
 
 ## How to participate
 

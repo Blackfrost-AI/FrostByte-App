@@ -1,6 +1,6 @@
 # Security reporting
 
-Please report suspected FrostByte vulnerabilities through [GitHub's private vulnerability reporting form](https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new). It is separate from public issues. GitHub's [private reporting guide](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately) explains how a report is handled.
+Please report suspected FrostByte vulnerabilities through [GitHub's private vulnerability reporting form](https://github.com/Blackfrost-AI/FrostByte-App/security/advisories/new). It is separate from public issues. GitHub's [private reporting guide](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately) explains how a report is handled.
 
 If you cannot use that route, contact [support@blackfrostai.com](mailto:support@blackfrostai.com) with the subject **FrostByte security report** and a brief description. Ask for a suitable private follow-up channel before sending sensitive attachments. Do not include credentials or active invite codes.
 
@@ -15,4 +15,4 @@ The current release listed on the [official download page](https://blackfrostai.
 
 Please coordinate sensitive details privately while maintainers investigate. Public disclosure timing is discussed case by case. This policy does not establish a paid bug bounty, a response-time guarantee, or authorization to test third-party systems.
 
-Ordinary crashes, UI problems, and feature requests without a security impact belong in the [public issue chooser](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new/choose). Personal account and invite-access issues belong in [private support](SUPPORT.md#public-and-private-feedback).
+Ordinary crashes, UI problems, and feature requests without a security impact belong in the [public issue chooser](https://github.com/Blackfrost-AI/FrostByte-App/issues/new/choose). Personal account and invite-access issues belong in [private support](SUPPORT.md#public-and-private-feedback).

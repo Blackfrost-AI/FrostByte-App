@@ -1,10 +1,10 @@
-# Contributing to FrostByte Feedback
+# Contributing to FrostByte
 
 You can help by reporting a problem, describing an improvement, answering a setup question, or making these public docs clearer. You do not need access to FrostByte's private application source.
 
 ## Choose the right route
 
-Use the [issue chooser](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new/choose) for a bug, feature request, documentation correction, or question. Search [existing issues](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues?q=is%3Aissue) first, including closed reports. If you find the same problem, add your version and any new evidence there; a 👍 reaction is enough to show that a feature would help you.
+Use the [issue chooser](https://github.com/Blackfrost-AI/FrostByte-App/issues/new/choose) for a bug, feature request, documentation correction, or question. Search [existing issues](https://github.com/Blackfrost-AI/FrostByte-App/issues?q=is%3Aissue) first, including closed reports. If you find the same problem, add your version and any new evidence there; a 👍 reaction is enough to show that a feature would help you.
 
 Use [SECURITY.md](SECURITY.md) for vulnerabilities. Invite access, credentials, and personal support details belong in a private channel described in [SUPPORT.md](SUPPORT.md).
 

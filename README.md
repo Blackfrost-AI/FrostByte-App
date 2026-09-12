@@ -1,25 +1,33 @@
 <p align="center"><img src="assets/frostbyte-icon.png" width="88" height="88" alt="FrostByte app icon"></p>
 
-# FrostByte Feedback
+# FrostByte
 
-**The public home for FrostByte bug reports, feature requests, and community support.**
+**The official GitHub home of FrostByte by Blackfrost_AI.**
 
-FrostByte brings Hugging Face model downloads, BitTorrent, and your own devices into one desktop app. Choose the files you need, choose where they go, and decide what you share.
+Hugging Face models, torrents, and your own devices — in one desktop app. Choose the files you need, choose where they go, and decide what you share.
 
-[Report a bug](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=01-bug-report.yml) · [Request a feature](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=02-feature-request.yml) · [Browse issues](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues) · [User guide](https://blackfrostai.com/frostbyte/guide) · [Get the beta](https://blackfrostai.com/frostbyte#get-beta)
+## Download FrostByte
 
-This repository hosts public feedback and documentation. **FrostByte is a proprietary, invite-only private beta.** Application source and installers are managed separately. Beta downloads come from the official website after invite-code verification.
+### [Download for Mac and Windows →](https://blackfrostai.com/frostbyte#get-beta)
+
+Downloads are provided by the official FrostByte website. **The current beta requires an invite code.** The download desk includes installation instructions, signing status, and checksums.
+
+[User guide](https://blackfrostai.com/frostbyte/guide) · [Report a bug](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=01-bug-report.yml) · [Request a feature](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=02-feature-request.yml) · [Browse feedback](https://github.com/Blackfrost-AI/FrostByte-App/issues)
+
+**Find FrostByte useful? Star this repository** to bookmark the app and show your support. Follow [Blackfrost_AI on GitHub](https://github.com/Blackfrost-AI) and [@blackfrost_ai on X](https://x.com/blackfrost_ai) for news. Need private help? [support@blackfrostai.com](mailto:support@blackfrostai.com).
+
+This is FrostByte’s public product and community page: download links, documentation, and feedback in Issues. FrostByte is proprietary private-beta software; application source is maintained separately. Installers are supplied through the website, with third-party licenses preserved.
 
 ## Start here
 
 | You want to… | Go to… |
 | --- | --- |
-| Report something broken | [Bug report](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=01-bug-report.yml) |
-| Request an improvement or new capability | [Feature request](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=02-feature-request.yml) |
-| Fix confusing instructions or report a broken help link | [Documentation feedback](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=03-documentation.yml) |
-| Ask how something works | [Question or setup help](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=04-question.yml) |
-| Discuss an existing report | Search [open and closed issues](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues?q=is%3Aissue), then add useful details or a 👍 reaction |
-| Report a suspected security vulnerability privately | [Private security reporting](https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new) — read [SECURITY.md](SECURITY.md) |
+| Report something broken | [Bug report](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=01-bug-report.yml) |
+| Request an improvement or new capability | [Feature request](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=02-feature-request.yml) |
+| Fix confusing instructions or report a broken help link | [Documentation feedback](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=03-documentation.yml) |
+| Ask how something works | [Question or setup help](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=04-question.yml) |
+| Discuss an existing report | Search [open and closed issues](https://github.com/Blackfrost-AI/FrostByte-App/issues?q=is%3Aissue), then add useful details or a 👍 reaction |
+| Report a suspected security vulnerability privately | [Private security reporting](https://github.com/Blackfrost-AI/FrostByte-App/security/advisories/new) — read [SECURITY.md](SECURITY.md) |
 | Get help with an invite or another private matter | Use **Help → Send feedback** in the app, or [contact support](mailto:support@blackfrostai.com) |
 
 **GitHub issues, comments, and attachments are public.** Keep invite codes, access tokens, passwords, SSH keys, personal file paths, device addresses, and private download history out of reports. You do not need to identify what you downloaded to ask for help. See [reporting privately](SUPPORT.md#public-and-private-feedback) for alternatives.
@@ -131,8 +139,8 @@ Optional in-app diagnostics focus on app and connection health and exclude searc
 
 Please follow the [community guidelines](CODE_OF_CONDUCT.md). For a suspected vulnerability, use [private security reporting](SECURITY.md). For invite access or another private support matter, [contact support](mailto:support@blackfrostai.com) without sending your invite code or credentials.
 
-FrostByte remains proprietary private-beta software. This public feedback repository does not grant access to application source or change the app's license. Third-party components retain their respective licenses. The official [beta terms](https://blackfrostai.com/frostbyte/terms) and [privacy notice](https://blackfrostai.com/frostbyte/privacy) describe the current app and service policies.
+FrostByte remains proprietary private-beta software. This public product repository does not grant access to application source or change the app's license. Third-party components retain their respective licenses. The official [beta terms](https://blackfrostai.com/frostbyte/terms) and [privacy notice](https://blackfrostai.com/frostbyte/privacy) describe the current app and service policies.
 
 ---
 
-**FrostByte by Blackfrost_AI** · [Website](https://blackfrostai.com/frostbyte) · [User guide](https://blackfrostai.com/frostbyte/guide) · [Support](SUPPORT.md) · [Roadmap](ROADMAP.md)
+**FrostByte by Blackfrost_AI** · [Follow on GitHub](https://github.com/Blackfrost-AI) · [Follow on X](https://x.com/blackfrost_ai) · [Website](https://blackfrostai.com/frostbyte) · [User guide](https://blackfrostai.com/frostbyte/guide) · [Support](SUPPORT.md) · [Roadmap](ROADMAP.md)

@@ -6,8 +6,8 @@ Start with the [illustrated user guide](https://blackfrostai.com/frostbyte/guide
 
 | Situation | Recommended channel |
 | --- | --- |
-| A reproducible bug or a feature idea that can be discussed publicly | [Open an issue](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new/choose) |
-| General setup or usage question | [Question form](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues/new?template=04-question.yml) |
+| A reproducible bug or a feature idea that can be discussed publicly | [Open an issue](https://github.com/Blackfrost-AI/FrostByte-App/issues/new/choose) |
+| General setup or usage question | [Question form](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=04-question.yml) |
 | A private report or a report without a GitHub account | In the app, use **Help → Send feedback** or **Settings → Privacy & Feedback**; review before sending |
 | Trouble getting access to the invited beta | Email [support@blackfrostai.com](mailto:support@blackfrostai.com) without your invite code or credentials |
 | A suspected vulnerability or sensitive security concern | Follow [SECURITY.md](SECURITY.md) and use GitHub's private reporting route |

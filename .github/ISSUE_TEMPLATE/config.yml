@@ -4,8 +4,8 @@ contact_links:
     url: https://blackfrostai.com/frostbyte/guide
     about: File selection, transfers, devices, sharing, and installation help.
   - name: Report a security vulnerability privately
-    url: https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new
+    url: https://github.com/Blackfrost-AI/FrostByte-App/security/advisories/new
     about: Use the private reporting route for sensitive security concerns.
   - name: Invite access or private support
-    url: https://github.com/Blackfrost-AI/FrostByte-Feedback/blob/main/SUPPORT.md#public-and-private-feedback
+    url: https://github.com/Blackfrost-AI/FrostByte-App/blob/main/SUPPORT.md#public-and-private-feedback
     about: Contact Blackfrost privately; never include invite codes, passwords, or keys.
