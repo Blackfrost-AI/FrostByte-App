@@ -1,0 +1,34 @@
+name: Feature request
+description: Suggest a new capability or an improvement to an existing workflow.
+title: "[Feature]: "
+labels: [enhancement, "status:triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe the task you want to accomplish. Search [existing requests](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues?q=is%3Aissue%20label%3Aenhancement) and check the [roadmap](https://github.com/Blackfrost-AI/FrostByte-Feedback/blob/main/ROADMAP.md) first. This is a public discussion; keep personal data and credentials out of it.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is difficult or missing today?
+      description: Explain the workflow and who it affects. A concrete example helps.
+      placeholder: "When I try to… I have to… This makes it difficult to…"
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would a useful result look like?
+      description: Describe the outcome, including accessibility or compatibility needs. An implementation plan is not required.
+    validations:
+      required: true
+  - type: textarea
+    id: ideas
+    attributes:
+      label: Ideas or alternatives (optional)
+      description: Share a possible interaction, a current workaround, or other approaches you considered.
+  - type: textarea
+    id: context
+    attributes:
+      label: Devices or other context (optional)
+      description: Platform, device family, file format, or a public mockup can help. No network addresses, personal files, or model weights are needed.

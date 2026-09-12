@@ -1,0 +1,29 @@
+name: Documentation feedback
+description: Improve the README, user guide, setup instructions, or help links.
+title: "[Docs]: "
+labels: [documentation, "status:triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us make the instructions easier to use. This report is public; link the help page or section without including signed download URLs, invite codes, or private account information.
+  - type: input
+    id: location
+    attributes:
+      label: Page or section
+      description: A public URL, heading, or in-app help location.
+      placeholder: "For example: user guide → Devices → external storage"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is unclear, incorrect, or missing?
+      description: Describe where you got stuck or what you expected the instructions to explain.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change (optional)
+      description: Revised wording, missing steps, or a better example are welcome.

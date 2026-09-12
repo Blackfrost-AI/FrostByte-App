@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.dmg
+*.exe
+*.zip
+node_modules/
+.ssh/
+dist/
+build/
+private/

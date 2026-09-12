@@ -1,0 +1,30 @@
+{
+  "baseline": "0.2.0-beta.14",
+  "context": "Previously published product-page assets. Screenshots use an isolated demo profile with simulated Hub/device data.",
+  "files": [
+    {
+      "file": "frostbyte-icon.png",
+      "source": "https://blackfrostai.com/frostbyte/app-icon.png",
+      "bytes": 73968,
+      "sha256": "4af7ed132adbbf744ff3d41bd784953472962282d5478881220d7aeaa7b0aed6"
+    },
+    {
+      "file": "huggingface.png",
+      "source": "https://blackfrostai.com/frostbyte/screenshots/web/01-huggingface.png",
+      "bytes": 124268,
+      "sha256": "5c6763f707d7584e937e78cd958474013f0af21c36911cff79bb60af70664a93"
+    },
+    {
+      "file": "download-search.png",
+      "source": "https://blackfrostai.com/frostbyte/screenshots/web/10-inventory-search.png",
+      "bytes": 118263,
+      "sha256": "8742604b03e788665d100d4e97ba271c449612591afe836d960b2c9b229c90de"
+    },
+    {
+      "file": "devices.png",
+      "source": "https://blackfrostai.com/frostbyte/screenshots/web/08-devices.png",
+      "bytes": 256432,
+      "sha256": "317828d16327695bffa234cdc9198cbb28b977dae87b9774df42795923047665"
+    }
+  ]
+}

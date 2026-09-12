@@ -1,0 +1,74 @@
+name: Bug report
+description: Report a crash, broken behavior, or something that does not work as expected.
+title: "[Bug]: "
+labels: [bug, "status:triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This report and its attachments will be **public**. Keep credentials, invite codes, device addresses, personal paths, and private download history out of it. Screenshots and logs are optional. For sensitive security concerns, use [private security reporting](https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new).
+        Search [existing issues](https://github.com/Blackfrost-AI/FrostByte-Feedback/issues?q=is%3Aissue) before opening another report for the same problem.
+  - type: input
+    id: version
+    attributes:
+      label: FrostByte version
+      description: Find it in Settings → Updates. If the app cannot open, say so.
+      placeholder: "For example: 0.2.0-beta.14, or unknown — app will not open"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where are you using FrostByte?
+      options:
+        - macOS desktop app
+        - Windows desktop app
+        - Website / download desk
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Transfers / download search
+        - Hugging Face / file selection
+        - Torrents / magnets / sharing
+        - My Models / downloaded inventory
+        - Devices / companion setup / storage
+        - Installation / updates
+        - Interface / keyboard / accessibility
+        - Privacy / feedback
+        - Website / invite access
+        - Not sure / another area
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened, and what did you expect?
+      description: Describe one problem. Include safe-to-share error wording if available.
+      placeholder: "I expected… Instead…"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps or circumstances
+      description: A few steps help. If the problem is intermittent, describe what was happening when you noticed it.
+      placeholder: |
+        1. Open…
+        2. Choose…
+        3. The problem appears when…
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Relevant environment and frequency (optional)
+      description: OS version, local versus companion download, device model, internal/external storage, and whether it repeats. No serial numbers, addresses, or personal paths are needed.
+      placeholder: "For example: macOS, remote DGX download, external drive; happens after reconnecting."
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or additional context (optional)
+      description: You may attach a cropped screenshot or a short redacted excerpt. Review attachments for private information. Do not upload full logs, profiles, installers, or model files.

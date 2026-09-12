@@ -1,0 +1,117 @@
+[
+  {
+    "name": "bug",
+    "color": "d73a4a",
+    "description": "A problem with existing behavior."
+  },
+  {
+    "name": "enhancement",
+    "color": "a2eeef",
+    "description": "A proposed feature or workflow improvement."
+  },
+  {
+    "name": "documentation",
+    "color": "0075ca",
+    "description": "README, guide, instructions, or help links."
+  },
+  {
+    "name": "question",
+    "color": "d876e3",
+    "description": "A usage or setup question."
+  },
+  {
+    "name": "status:triage",
+    "color": "ededed",
+    "description": "Awaiting an initial maintainer review."
+  },
+  {
+    "name": "status:needs-info",
+    "color": "fbca04",
+    "description": "Specific information is needed to investigate."
+  },
+  {
+    "name": "status:confirmed",
+    "color": "b60205",
+    "description": "The reported problem has been verified."
+  },
+  {
+    "name": "status:planned",
+    "color": "c5def5",
+    "description": "Selected for work; no promised release date."
+  },
+  {
+    "name": "status:in-progress",
+    "color": "1d76db",
+    "description": "Work is underway."
+  },
+  {
+    "name": "status:released",
+    "color": "0e8a16",
+    "description": "Available in the release identified in the issue."
+  },
+  {
+    "name": "priority:high",
+    "color": "b60205",
+    "description": "High-impact issue assessed by a maintainer."
+  },
+  {
+    "name": "platform:macos",
+    "color": "cfd3d7",
+    "description": "Affects the macOS desktop or Mac companion."
+  },
+  {
+    "name": "platform:windows",
+    "color": "cfd3d7",
+    "description": "Affects the Windows desktop app."
+  },
+  {
+    "name": "area:huggingface",
+    "color": "fef2c0",
+    "description": "Hub search, access, versions, and file selection."
+  },
+  {
+    "name": "area:torrents",
+    "color": "bfdadc",
+    "description": "Torrents, magnets, peers, and sharing."
+  },
+  {
+    "name": "area:transfers",
+    "color": "bfdadc",
+    "description": "Progress, pause/resume, and download search."
+  },
+  {
+    "name": "area:inventory",
+    "color": "bfdadc",
+    "description": "My Models, Torrents inventory, and recorded files."
+  },
+  {
+    "name": "area:devices",
+    "color": "d4c5f9",
+    "description": "Companions, pairing, reconnection, and storage."
+  },
+  {
+    "name": "area:updates",
+    "color": "d4c5f9",
+    "description": "Installation, versions, and update checks."
+  },
+  {
+    "name": "area:interface",
+    "color": "c2e0c6",
+    "description": "Layout, navigation, and interaction."
+  },
+  {
+    "name": "area:privacy",
+    "color": "c2e0c6",
+    "description": "Consent, diagnostics, and feedback controls."
+  },
+  {
+    "name": "area:website",
+    "color": "c2e0c6",
+    "description": "Product page, guide, and invite-protected downloads."
+  },
+  {
+    "name": "accessibility",
+    "color": "5319e7",
+    "description": "Keyboard, readability, assistive technology, or access needs."
+  }
+]

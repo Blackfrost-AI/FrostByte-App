@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the illustrated user guide
+    url: https://blackfrostai.com/frostbyte/guide
+    about: File selection, transfers, devices, sharing, and installation help.
+  - name: Report a security vulnerability privately
+    url: https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new
+    about: Use the private reporting route for sensitive security concerns.
+  - name: Invite access or private support
+    url: mailto:support@blackfrostai.com
+    about: Contact Blackfrost privately; never include invite codes, passwords, or keys.

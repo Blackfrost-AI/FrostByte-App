@@ -1,0 +1,27 @@
+name: Question or setup help
+description: Ask about using FrostByte or connecting a supported device.
+title: "[Help]: "
+labels: [question, "status:triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the [user guide](https://blackfrostai.com/frostbyte/guide) and [quick troubleshooting](https://github.com/Blackfrost-AI/FrostByte-Feedback/blob/main/SUPPORT.md) first. Your question and attachments are public. For invite access or private matters, use in-app feedback or [support](mailto:support@blackfrostai.com); do not post credentials or invite codes.
+  - type: textarea
+    id: question
+    attributes:
+      label: What are you trying to do?
+      description: Describe the task and where you need help. You do not need to name a private model or share your download history.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Version and platform (optional)
+      description: App version and desktop/companion platform, if relevant.
+      placeholder: "For example: beta.14 on Windows, connecting a Mac companion"
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried or read? (optional)
+      description: Link a public guide section or describe the step you reached. Keep addresses, paths, tokens, keys, and other private details out of screenshots or excerpts.
