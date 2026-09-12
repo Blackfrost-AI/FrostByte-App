@@ -1,6 +1,6 @@
 # Security reporting
 
-Please report suspected FrostByte vulnerabilities through [GitHub's private vulnerability reporting form](https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new). It is separate from public issues. GitHub's [private reporting guide](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/privately-reporting-a-security-vulnerability) explains how a report is handled.
+Please report suspected FrostByte vulnerabilities through [GitHub's private vulnerability reporting form](https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new). It is separate from public issues. GitHub's [private reporting guide](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately) explains how a report is handled.
 
 If you cannot use that route, contact [support@blackfrostai.com](mailto:support@blackfrostai.com) with the subject **FrostByte security report** and a brief description. Ask for a suitable private follow-up channel before sending sensitive attachments. Do not include credentials or active invite codes.
 
