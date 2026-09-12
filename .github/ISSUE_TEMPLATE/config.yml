@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/Blackfrost-AI/FrostByte-Feedback/security/advisories/new
     about: Use the private reporting route for sensitive security concerns.
   - name: Invite access or private support
-    url: mailto:support@blackfrostai.com
+    url: https://github.com/Blackfrost-AI/FrostByte-Feedback/blob/main/SUPPORT.md#public-and-private-feedback
     about: Contact Blackfrost privately; never include invite codes, passwords, or keys.
