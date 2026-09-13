@@ -4,7 +4,7 @@
 
 **The official GitHub home of FrostByte by Blackfrost_AI.**
 
-Hugging Face models, torrents, and your own devices — in one desktop app. Choose the files you need, choose where they go, and decide what you share.
+Hugging Face models, torrents, IPFS collections, and your own devices — in one desktop app. Choose the files you need, choose where they go, and decide what you share.
 
 ## Download FrostByte
 
@@ -70,9 +70,32 @@ Downloaded models appear in **My Models**; other downloaded files appear in **To
 
 For eligible public Hugging Face downloads, **HF + device** can combine HF with exact, verified files already shared on one selected companion. This beta does not pool several companions into one hybrid download. Availability and speed depend on the sources, network, and storage.
 
+### New in beta.16: IPFS and AEON Orbit
+
+Paste or drop an IPFS link or CID, preview its files, and select one destination.
+Each collection stays grouped in **Transfers** and appears in **My Models** or
+**Torrents** when complete. Turn Sharing on explicitly to publish its selected
+files and copy an IPFS link. IPFS sharing starts off again after restart.
+
+IPFS caches use extra space on the app or companion state drive. Its bandwidth
+is separate from torrent limits. This beta does not combine HF, BitTorrent and
+IPFS blocks into one download. [IPFS walkthrough](https://blackfrostai.com/frostbyte/guide#ipfs).
+
+**AEON Orbit** is a purple/cyan space theme available to everyone under
+**Settings → Interface → Appearance**. Compatible connected Raspberry Pi devices
+can expose AEON console tools under their own device card, with AEON’s own
+browser authentication. The theme grants no device access. The combined Pi
+image remains paused and is not included in this desktop release.
+[See the AEON interface](https://blackfrostai.com/frostbyte/guide#aeon); its Pi
+connection pictures are clearly labeled demonstrations.
+
+Beta.16 also includes the beta.15 security, native confirmation, grouped resume
+and recovery improvements. Optional diagnostics remain off by default, and the
+updated app and website notices describe IPFS networking and storage.
+
 ## Install and get started
 
-The navigation described here follows **0.2.0-beta.14**. Check the [official download desk](https://blackfrostai.com/frostbyte#get-beta) for the current build, supported targets, signing status, and installation instructions.
+The navigation described here follows **0.2.0-beta.16**. Check the [official download desk](https://blackfrostai.com/frostbyte#get-beta) for the current build, supported targets, signing status, and installation instructions.
 
 | Role | Current beta support | What to know |
 | --- | --- | --- |
@@ -85,7 +108,7 @@ The documented beta is ad-hoc signed and not notarized on Mac; Windows packages 
 
 1. Get your invited build from [blackfrostai.com/frostbyte](https://blackfrostai.com/frostbyte#get-beta).
 2. Install it and review the first-launch beta terms. Optional diagnostics are a separate choice and start off.
-3. Start with a small download: use **HuggingFace**, or **Transfers → Add download** for a torrent or magnet.
+3. Start with a small download: use **HuggingFace**, **Transfers → Add download** for a torrent or magnet, or **Transfers → IPFS** for a CID.
 4. Review the file selection and choose one destination. To use a remote computer, add it through **Devices** first.
 5. Follow progress in **Transfers**. Look for completed files in **My Models** or **Torrents**.
 6. Choose whether to share an item. Use **Settings → Updates → Check now** to check for a newer release; installation remains your choice.
