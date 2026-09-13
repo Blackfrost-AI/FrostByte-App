@@ -9,7 +9,7 @@ Start with the [illustrated user guide](https://blackfrostai.com/frostbyte/guide
 | A reproducible bug or a feature idea that can be discussed publicly | [Open an issue](https://github.com/Blackfrost-AI/FrostByte-App/issues/new/choose) |
 | General setup or usage question | [Question form](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=04-question.yml) |
 | A private report or a report without a GitHub account | In the app, use **Help → Send feedback** or **Settings → Privacy & Feedback**; review before sending |
-| Trouble getting access to the invited beta | Email [support@blackfrostai.com](mailto:support@blackfrostai.com) without your invite code or credentials |
+| Trouble downloading the public beta | Email [support@blackfrostai.com](mailto:support@blackfrostai.com) without credentials; no invite code or account is required to download |
 | A suspected vulnerability or sensitive security concern | Follow [SECURITY.md](SECURITY.md) and use GitHub's private reporting route |
 
 In-app feedback is sent to Blackfrost's private feedback service and is not automatically posted to this repository. A reply email and diagnostics attachment are optional. Public issues are readable by anyone and may be indexed by search engines. A GitHub account is needed to post an issue; reading the documentation and public reports does not require one.
@@ -44,10 +44,12 @@ Check the release's signing status and official installation instructions on the
 
 ### I want to check for updates
 
-Open **Settings → Updates → Check now**. Automatic checking is optional and runs at most daily while the app is open. A check only reads release information; the invite-protected website supplies downloads, and you choose when to install.
+Open **Settings → Updates → Check now**. Automatic checking is optional and runs at most daily while the app is open. A check only reads release information; the official website supplies downloads after accepting the beta terms, and you choose when to install. No invite code or account is required.
+
+Beta.16's bundled notices predate the public launch and still mention a private beta. The [current website terms](https://blackfrostai.com/frostbyte/terms#agreement) authorize public access for official website downloads. Share the official page if someone asks for the app.
 
 ## What support needs
 
 Usually: app version, OS version, the affected feature, a short description of the action and result, and local versus companion context. Optional screenshots should show only the relevant area. Never send passwords, tokens, SSH private keys, invite codes, full profile exports, or unrelated download history, even through private support.
 
-Do not post a separate issue repeatedly to seek a faster response. Add useful new information to the existing report. There is no guaranteed response time or delivery date during the private beta.
+Do not post a separate issue repeatedly to seek a faster response. Add useful new information to the existing report. There is no guaranteed response time or delivery date during the beta.

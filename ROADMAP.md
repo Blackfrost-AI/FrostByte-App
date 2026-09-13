@@ -1,18 +1,19 @@
 # FrostByte public roadmap
 
-**Updated September 12, 2026.** This page describes product direction, not a release schedule. The [download page](https://blackfrostai.com/frostbyte#get-beta) is the source for available builds. Planned work can change as beta feedback reveals what matters most.
+**Updated September 13, 2026.** This page describes product direction, not a release schedule. The [download page](https://blackfrostai.com/frostbyte#get-beta) is the source for available builds. Beta.16 is open to everyone after accepting the beta terms, with no invite code or account. Planned work can change as beta feedback reveals what matters most.
 
 ## Available in the documented beta
 
 | Area | Current behavior |
 | --- | --- |
-| Download sources | Selective Hugging Face downloads, torrent files, and magnet links with a review step. |
+| Download sources | Selective Hugging Face downloads, torrent files, magnet links and IPFS collections with a review step. |
 | Transfers and inventory | Grouped model progress, top-bar download search, retained completed inventory, and separate My Models/Torrents views. |
 | Devices | Multiple saved Mac and DGX companions, per-device controls, hardware cards, and one destination per download. |
 | Sharing | Item-level sharing controls and eligible HF + device downloads using verified files on one selected companion. |
 | Updates and feedback | Manual/optional update checks, reviewed feedback, and separate optional connection diagnostics. |
+| AEON Orbit | A space theme available to everyone, with device-specific console links on compatible connected Raspberry Pi devices. The combined Pi image is paused and is not included. |
 
-The [user guide](https://blackfrostai.com/frostbyte/guide) describes prerequisites and limits. Current availability does not imply compatibility with every machine or network configuration.
+The [user guide](https://blackfrostai.com/frostbyte/guide) describes prerequisites and limits. IPFS is a separate transfer source; this beta does not combine HF, BitTorrent and IPFS blocks into one download. Current availability does not imply compatibility with every machine or network configuration.
 
 ## Current focus
 

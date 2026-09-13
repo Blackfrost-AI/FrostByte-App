@@ -6,7 +6,7 @@ You can help by reporting a problem, describing an improvement, answering a setu
 
 Use the [issue chooser](https://github.com/Blackfrost-AI/FrostByte-App/issues/new/choose) for a bug, feature request, documentation correction, or question. Search [existing issues](https://github.com/Blackfrost-AI/FrostByte-App/issues?q=is%3Aissue) first, including closed reports. If you find the same problem, add your version and any new evidence there; a 👍 reaction is enough to show that a feature would help you.
 
-Use [SECURITY.md](SECURITY.md) for vulnerabilities. Invite access, credentials, and personal support details belong in a private channel described in [SUPPORT.md](SUPPORT.md).
+Use [SECURITY.md](SECURITY.md) for vulnerabilities. Personal support details belong in a private channel described in [SUPPORT.md](SUPPORT.md). Never send credentials.
 
 ## Write a clear bug report
 

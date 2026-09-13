@@ -15,4 +15,4 @@ The current release listed on the [official download page](https://blackfrostai.
 
 Please coordinate sensitive details privately while maintainers investigate. Public disclosure timing is discussed case by case. This policy does not establish a paid bug bounty, a response-time guarantee, or authorization to test third-party systems.
 
-Ordinary crashes, UI problems, and feature requests without a security impact belong in the [public issue chooser](https://github.com/Blackfrost-AI/FrostByte-App/issues/new/choose). Personal account and invite-access issues belong in [private support](SUPPORT.md#public-and-private-feedback).
+Ordinary crashes, UI problems, and feature requests without a security impact belong in the [public issue chooser](https://github.com/Blackfrost-AI/FrostByte-App/issues/new/choose). Personal support details belong in [private support](SUPPORT.md#public-and-private-feedback).

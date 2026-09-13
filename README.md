@@ -10,13 +10,13 @@ Hugging Face models, torrents, IPFS collections, and your own devices — in one
 
 ### [Download for Mac and Windows →](https://blackfrostai.com/frostbyte#get-beta)
 
-Downloads are provided by the official FrostByte website. **The current beta requires an invite code.** The download desk includes installation instructions, signing status, and checksums.
+**The public beta is open. No invite code, account or email is required.** Accept the beta terms on the official FrostByte website, then choose your download. The download desk includes installation instructions, signing status, and checksums.
 
 [User guide](https://blackfrostai.com/frostbyte/guide) · [Report a bug](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=01-bug-report.yml) · [Request a feature](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=02-feature-request.yml) · [Browse feedback](https://github.com/Blackfrost-AI/FrostByte-App/issues)
 
 **Find FrostByte useful? Star this repository** to bookmark the app and show your support. Follow [Blackfrost_AI on GitHub](https://github.com/Blackfrost-AI) and [@blackfrost_ai on X](https://x.com/blackfrost_ai) for news. Need private help? [support@blackfrostai.com](mailto:support@blackfrostai.com).
 
-This is FrostByte’s public product and community page: download links, documentation, and feedback in Issues. FrostByte is proprietary private-beta software; application source is maintained separately. Installers are supplied through the website, with third-party licenses preserved.
+This is FrostByte’s public product and community page: download links, documentation, and feedback in Issues. FrostByte is proprietary beta software; application source is maintained separately in a private repository. Installers are supplied through the website, with third-party licenses preserved.
 
 ## Start here
 
@@ -28,7 +28,7 @@ This is FrostByte’s public product and community page: download links, documen
 | Ask how something works | [Question or setup help](https://github.com/Blackfrost-AI/FrostByte-App/issues/new?template=04-question.yml) |
 | Discuss an existing report | Search [open and closed issues](https://github.com/Blackfrost-AI/FrostByte-App/issues?q=is%3Aissue), then add useful details or a 👍 reaction |
 | Report a suspected security vulnerability privately | [Private security reporting](https://github.com/Blackfrost-AI/FrostByte-App/security/advisories/new) — read [SECURITY.md](SECURITY.md) |
-| Get help with an invite or another private matter | Use **Help → Send feedback** in the app, or [contact support](mailto:support@blackfrostai.com) |
+| Get help with a download or another private matter | Use **Help → Send feedback** in the app, or [contact support](mailto:support@blackfrostai.com) |
 
 **GitHub issues, comments, and attachments are public.** Keep invite codes, access tokens, passwords, SSH keys, personal file paths, device addresses, and private download history out of reports. You do not need to identify what you downloaded to ask for help. See [reporting privately](SUPPORT.md#public-and-private-feedback) for alternatives.
 
@@ -99,19 +99,21 @@ The navigation described here follows **0.2.0-beta.16**. Check the [official dow
 
 | Role | Current beta support | What to know |
 | --- | --- | --- |
-| Desktop app on Mac | Apple silicon / ARM64 | DMG and app ZIP are distributed through the invite-protected website. |
+| Desktop app on Mac | Apple silicon / ARM64 | DMG and app ZIP are available from the official website after accepting the beta terms. |
 | Desktop app on Windows | Windows x64 | Per-user setup EXE and app ZIP are available. Setup preserves existing torrent/magnet defaults. |
 | Optional remote Mac | Apple silicon or Intel | Requires SSH / Remote Login, Python 3, and an awake Mac with the companion account logged in. No Docker or Frigid is required. |
 | Optional remote DGX device | Supported Linux ARM64 or x64 host | Requires SSH, Python 3, and Docker usable by the companion account. |
 
 The documented beta is ad-hoc signed and not notarized on Mac; Windows packages are unsigned. Review the installation notice before downloading. Intel Mac and Windows ARM64 **desktop installers** are not part of this beta. A remote companion's platform support is separate from the desktop installer targets.
 
-1. Get your invited build from [blackfrostai.com/frostbyte](https://blackfrostai.com/frostbyte#get-beta).
+1. Accept the beta terms and download your build from [blackfrostai.com/frostbyte](https://blackfrostai.com/frostbyte#get-beta). No invite code or account is needed.
 2. Install it and review the first-launch beta terms. Optional diagnostics are a separate choice and start off.
 3. Start with a small download: use **HuggingFace**, **Transfers → Add download** for a torrent or magnet, or **Transfers → IPFS** for a CID.
 4. Review the file selection and choose one destination. To use a remote computer, add it through **Devices** first.
 5. Follow progress in **Transfers**. Look for completed files in **My Models** or **Torrents**.
 6. Choose whether to share an item. Use **Settings → Updates → Check now** to check for a newer release; installation remains your choice.
+
+Beta.16 was packaged before public access opened on September 13. Its bundled notices still contain older private-beta wording. The [current website terms](https://blackfrostai.com/frostbyte/terms#agreement) authorize public beta access and supersede those invitation restrictions for official website downloads. The app remains proprietary, and optional diagnostics remain a separate choice.
 
 The [illustrated user guide](https://blackfrostai.com/frostbyte/guide) covers file selection, external storage, companion setup, bandwidth, sharing, installation, and troubleshooting in detail. [SUPPORT.md](SUPPORT.md) has quick answers for common situations.
 
@@ -160,9 +162,9 @@ That public index is **not available in the current beta**. Enabling sharing or 
 
 Optional in-app diagnostics focus on app and connection health and exclude search terms, model names, filenames, file contents, paths, torrent hashes, and credentials. Hardware details are not included in those reports. Manual feedback contains what you review and choose to send. GitHub submissions are a separate, public channel subject to GitHub's own service and privacy practices.
 
-Please follow the [community guidelines](CODE_OF_CONDUCT.md). For a suspected vulnerability, use [private security reporting](SECURITY.md). For invite access or another private support matter, [contact support](mailto:support@blackfrostai.com) without sending your invite code or credentials.
+Please follow the [community guidelines](CODE_OF_CONDUCT.md). For a suspected vulnerability, use [private security reporting](SECURITY.md). For a private support matter, [contact support](mailto:support@blackfrostai.com) without sending credentials.
 
-FrostByte remains proprietary private-beta software. This public product repository does not grant access to application source or change the app's license. Third-party components retain their respective licenses. The official [beta terms](https://blackfrostai.com/frostbyte/terms) and [privacy notice](https://blackfrostai.com/frostbyte/privacy) describe the current app and service policies.
+FrostByte remains proprietary beta software. Public beta access does not grant access to application source or permission to redistribute the proprietary app. Share the official download page or this repository. Third-party components retain their respective licenses. The official [beta terms](https://blackfrostai.com/frostbyte/terms) and [privacy notice](https://blackfrostai.com/frostbyte/privacy) describe the current app and service policies.
 
 ---
 
