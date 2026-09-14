@@ -8,6 +8,11 @@ Hugging Face models, torrents, IPFS collections, and your own devices — in one
 
 ## Download FrostByte
 
+**Current release: 0.3.0 (public beta).** This update adds recoverable, protected
+local publisher identities, AEON-compatible publisher signatures, and refinements
+to the AEON Orbit theme. A consistent release process binds both installers to
+one source revision and verified checksums.
+
 ### [Download for Mac and Windows →](https://blackfrostai.com/frostbyte#get-beta)
 
 **The public beta is open. No invite code, account or email is required.** Accept the beta terms on the official FrostByte website, then choose your download. The download desk includes installation instructions, signing status, and checksums.
@@ -93,9 +98,18 @@ Beta.16 also includes the beta.15 security, native confirmation, grouped resume
 and recovery improvements. Optional diagnostics remain off by default, and the
 updated app and website notices describe IPFS networking and storage.
 
+### Optional publisher identity
+
+Settings → Publisher can create or restore a local identity. Save its recovery
+phrase privately and confirm your backup; setup remains pending across restarts
+until you finish. The app protects the key with your password and the operating
+system key store. Recovery views hide when you leave the screen or after one
+minute. Anyone with the phrase can restore the same identity. Creating one does
+not publish your files or a community listing; Frost-Net discovery remains planned.
+
 ## Install and get started
 
-The navigation described here follows **0.2.0-beta.16**. Check the [official download desk](https://blackfrostai.com/frostbyte#get-beta) for the current build, supported targets, signing status, and installation instructions.
+The navigation described here follows **0.3.0**. Check the [official download desk](https://blackfrostai.com/frostbyte#get-beta) for the current build, supported targets, signing status, and installation instructions.
 
 | Role | Current beta support | What to know |
 | --- | --- | --- |
